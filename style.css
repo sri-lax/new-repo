@@ -5,6 +5,12 @@
 .githelp {
   color: red;
 }
-.demoheader {
+.demo__header {
   color: brown;
+}
+.demo__main {
+  background-color: blueviolet;
+}
+.demo__section {
+  background-color: brown;
 }
